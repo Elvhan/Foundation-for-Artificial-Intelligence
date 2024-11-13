@@ -2,7 +2,7 @@
 This is the first team project at Startup Campus
 
 ## Case 1: Withdraw All Savings in Cash
-**File:** `01_Kelompok E_No 2.ipynb`
+**File:** [01_Kelompok E_No 2.ipynb](https://github.com/Elvhan/Foundation-for-Artificial-Intelligence/blob/main/01_Kelompok_E_No_2.ipynb)
 
 ### Overview
 This project simulates a cash withdrawal system for a bank in Indonesia, where customers can request to withdraw all their savings in cash. The program assists the bank in calculating the number and types of cash denominations required to fulfill a customer's withdrawal request.
@@ -22,7 +22,7 @@ The objective is to fulfill the requested amount using the fewest pieces of cash
 ---
 
 ## Case 2: Data Analysis and Visualization
-**File:** `01_Kelompok E_No 3.ipynb`
+**File:** [01_Kelompok E_No 3.ipynb](https://github.com/Elvhan/Foundation-for-Artificial-Intelligence/blob/main/01_Kelompok_E_No_3.ipynb)
 
 ### Overview
 This project addresses challenges in a company’s HR division by analyzing and visualizing data using Python. The notebook guides users through essential steps in data manipulation and visualization, helping to extract meaningful insights from available datasets.
