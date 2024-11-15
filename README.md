@@ -1,5 +1,5 @@
 # Foundation-for-Artificial-Intelligence
-This is the first team project at Startup Campus
+This repository contains the first team project at Startup Campus
 
 ## Case 1: Withdraw All Savings in Cash
 **File:** [01_Kelompok E_No 2.ipynb](https://github.com/Elvhan/Foundation-for-Artificial-Intelligence/blob/main/01_Kelompok_E_No_2.ipynb)
